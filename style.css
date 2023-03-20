@@ -1,0 +1,24 @@
+#background {
+    width: 800px;
+    height: 600px;
+    background-color: #C7E3CC;
+    outline: 1px solid black;
+    position: relative;
+  }
+  
+  .shape {
+    position: absolute;
+    text-align: center;
+    user-select: none;
+    z-index: 1;
+  }
+  
+  .circle {
+    border-radius: 50%;
+  }
+  
+  .line {
+   border: 1px dashed red;
+   border-spacing: 2px; 
+  }
+  
