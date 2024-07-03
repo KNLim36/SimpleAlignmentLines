@@ -1,6 +1,8 @@
 # SimpleAlignmentLines
 A simple alignment line drawing project using pure JavaScript.
 
+#### You can view this on: https://jsfiddle.net/KeanNengLim/0od5txaj/
+
 ## How to preview
 To preview the project, follow these steps:
 1. Open your CLI and run `npx http-server -o index.html` to serve the index page. If prompted for installation, proceed with it.
